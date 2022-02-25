@@ -9,4 +9,4 @@
 <br/>
 <br/>
 
-<img align="center" alt="Mqlvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mqlvin&show_icons=true&hide_border=false&title_color=199900&icon_color=68EB4E&bg_color=1C1C1C&text_color=ffffff"/>
+<img align="center" alt="Mqlvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mqlvin&show_icons=true&hide_border=true&title_color=199900&icon_color=68EB4E&bg_color=1C1C1C&text_color=ffffff"/>
