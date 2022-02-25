@@ -1,4 +1,4 @@
-# Hi there, I'm Mqlvin - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Mqlvin
 
 ## I'm a student and learning developer.
 
@@ -9,9 +9,4 @@
 <br/>
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<img align="center" alt="Mqlvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mqlvin&show_icons=true&hide_border=false&title_color=199900&icon_color=68EB4E&bg_color=1C1C1C&text_color=ffffff"/>
