@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I use Java for a lot of my applications.<br>🤝 I also do a little bit of web development on the side.<br>🌱 I’m currently learning C++ (a little bit)<br>⚡ I enjoy playing the guitar!
+🔭 I use Java for a lot of my applications.<br>🤝 I also do a little bit of web development on the side.<br>🌱 I’m currently learning C++ (a little bit)<br>⚡ I enjoy photography (my pfp was taken by me :D)
 
 
 ## 🌐 Socials:
