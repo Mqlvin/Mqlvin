@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>⚡ I use Java/TypeScript for a lot of my applications.<br><br>🎯 I'm slowly learning the basics of C++.<br><br>🌱 I’m looking into game development!<br><br>📷 I enjoy photography _(my profile picture - a reflection of the sky in a puddle)_
+<br>⚡ I use **Java/TypeScript** for a lot of my applications.<br>🌱 I’m (trying to) learn **game development** and **C++**!<br>📷 I enjoy photography _(my profile picture - a reflection of the sky in a puddle)_
 <br>
 <br>
 ### 📧 Contact me:
