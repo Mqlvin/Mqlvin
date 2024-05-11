@@ -3,5 +3,5 @@
 <br>
 
 ### 📧 Contact me:
-~Please contact me on **Matrix**: melvin@falconmc.org~
-<br>~With worse response times, you could try~ contact me on **Discord**: @mqlvin
+Please contact me on **Matrix**: mqlvin@nope.chat
+<br>With worse response times, you could try contact me on **Discord**: @mqlvin
