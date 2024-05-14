@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I use **Java, Kotlin and TypeScript** for a lot of my applications.<br>🌱 I’ve been learning **game development** in **C++**!<br>📷 I enjoy photography _(my profile picture - a reflection of the sky in a puddle)_
+⚡ I use **Java, Kotlin and TypeScript** for a lot of my applications.<br>🌱 I’ve been learning **game development** in **C++**!<br>📷 I enjoy photography _(e.g. my profile picture)_
 <br>
 
 ### 📧 Contact me:
