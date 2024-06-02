@@ -1,7 +1,9 @@
-# 💫 About Me:
-⚡ I use **Java, Kotlin and TypeScript** for a lot of my applications.<br>🌱 I’ve been learning **game development** in **C++**!<br>📷 I enjoy photography _(e.g. my profile picture)_
+🎓 Student, using **Kotlin**, **TypeScript** and **C++**
+<br>
+🔨 (ex) Minecraft modder (using Forge, Mixins, Spigot, Minestom)
+<br>
+🌱 Interested in learning **C++**, **OpenGL** and **GLSL**
 <br>
 
-### 📧 Contact me:
 Please contact me on **Matrix**: mqlvin@nope.chat
-<br>With worse response times, you could try contact me on **Discord**: @mqlvin
+<br>With slower response times, you could try contact me on **Discord**: @mqlvin
