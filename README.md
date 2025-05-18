@@ -2,8 +2,7 @@
 <br>
 🔨 (ex) Minecraft modder (using Forge, Fabric, Mixins, Spigot, Minestom)
 <br>
-🌱 Interested in learning **Rust**, **OpenGL** and **GLSL**
+🌱 Learning **Rust** and **embedded programming**
 <br>
 
-Please contact me on **Matrix**: mqlvin@nope.chat
-<br>With slower response times, you could contact me on **Discord**: @mqlvin
+**Matrix**: `mqlvin@nope.chat` / **Discord** :`mqlvin`
